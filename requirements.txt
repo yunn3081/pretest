@@ -1,4 +1,4 @@
-django==3.0.9
+django==4.1.4
 djangorestframework==3.12.1
-psycopg2==2.8.6
-
+psycopg2==2.9.5
+pytz
